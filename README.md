@@ -8,7 +8,7 @@ I am a problem solver and a tech enthusiast, dedicated to creating innovative an
 
 ## I'm a Developer and a Site Reliability Engineer!
 
-- 🖥️ I have been working as Software engineer at Apptimum Labs
+- 🖥️ I have been working as Software engineer on KlarHome( remote )
 - 🖨️ I have extensive experience working with a variety of programming languages, including Ruby,C,C++,Java,JavaScript, and databases such as MS SQL, PostgreSQL, MySQL, and MongoDB.
 - 🧑‍💻 I have a strong commitment to ongoing learning and have developed valuable skills in team work, management, and relationship building
 - 🌱 I’m currently learning Machine Learning, AI and NLP.
